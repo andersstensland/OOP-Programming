@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pizza
+comment1.params=slices
+comment1.target=Pizza(int)
+comment2.params=
+comment2.target=int\ getSlicesTotal()
+comment3.params=
+comment3.target=int\ getSlicesTaken()
+comment4.params=
+comment4.target=int\ getSlicesLeft()
+comment5.params=
+comment5.target=boolean\ areThereSlicesLeft()
+comment6.params=
+comment6.target=void\ takeSlice()
+comment7.params=
+comment7.target=void\ printStatus()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
